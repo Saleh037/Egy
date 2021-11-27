@@ -1,0 +1,33 @@
+<!doctype>
+<html>
+<head>
+<b> <center> <mark>	Welcome to my first page </mark>
+<title>Egy pege</title>
+<form action=""> هذه الصفحة خاصة بالأفلام والمسلسلات
+</head> 
+<body dir="Middle"text="White "bgcolor="black">
+<br>
+<table width="100%">
+<ul>
+	<li> <a href="index2.html"> next </a> </li>
+</ul>
+<td> </td>
+<td> </td>
+
+</tr>	
+<marquee> welcome </marquee>
+<center>  <h1> <u>
+</u> </h1>
+<table> 
+<tr>
+<td>
+<td> </td> <img src="images\Saleh (8).jpeg" > 
+<tr> 
+<table>
+<mark> شكرا لزيارتكم </mark>
+<footer> thank you </footer>
+
+<b>
+<form>
+</body>
+</html>
