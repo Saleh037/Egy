@@ -1,0 +1,17 @@
+<!doctype>
+<html>
+	<head>
+	
+<div style="background-color:black;color:white;padding:20px;">
+  <h2> <mark>  Welcome to my first page  </h2> </mark>
+<marquee> welcom </marquee>
+<li> <a href="index2.html"> Back </a> </li>
+<a href="" >
+<br>
+<button onclick="document.location = 'https://rain.egybest.me/trending/'"> Go </button>
+ <head>
+
+<body>
+<p> <td> </td> <img src="images\Saleh9jpg.jpg"width="300">
+
+<html>
