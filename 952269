@@ -1,0 +1,23 @@
+<!doctype html>
+<html>
+	<head> 
+	<div style="background-color:black;white;padding:20px">
+	<li> <a href="index3.html"> next </a> </li>
+<marquee> welcom  </marquee>
+<title> Eg black </title>
+	</head>
+	<body>
+<ul> 
+	<li> <a href="index1.html"> Home </a> </li>
+
+</ul>
+<dt> 
+<p>
+<p> <td> </td> <img src="images\Saleh2(8).jpeg"width="170" >	
+<p> <td> <img src="images\Saleh4.jpg"width="170">
+
+<br>
+<div>
+			<body dir="Middle"text="black"bgcolor="Purple  "> 
+	</body>
+</html>
